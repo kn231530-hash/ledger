@@ -1,0 +1,6 @@
+{
+  "name": "Ledger - Personal Finance Management",
+  "description": "Professional personal finance dashboard for tracking transactions, income, expenses, budgets, accounts, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
